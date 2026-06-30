@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ensalada Shirazi",
+    "categoria": "Entrantes",
+    "precio": 6.5,
+    "imagen": "https://tse4.mm.bing.net/th/id/OIP.wcN7yjy797bTjJ2z5T1pjgHaFe",
+    "descripcion": "Ensalada Shirazi: una fresca combinación de pepino, tomate y cebolla con un toque de limón, inspirada en la tradición persa"
+  },
+  {
+    "id": 2,
+    "nombre": "Zeytoon parvardeh",
+    "categoria": "Entrantes",
+    "precio": 5.5,
+    "imagen": "https://i.ytimg.com/vi/E2LHF7H6qcM/maxresdefault.jpg",
+    "descripcion": "Aeytoon Parvardeh: aceitunas persas marinadas con nueces, granada y hierbas aromáticas, una explosión de sabor en cada bocado"
+  },
+  {
+    "id": 3,
+    "nombre": "Qormeh Sabzi",
+    "categoria": "Platos principales",
+    "precio": 12,
+    "imagen": "https://images.food52.com/hSGI40gLmZsSe6ETxH43GOt34YM=/1b014eff-84f8-4a74-99d9-e1acdd45a0db--1000026707.jpg?w=3840&q=75",
+    "descripcion": "Qormeh Sabzi: el guiso más emblemático de Persia, preparado con finas hierbas, carne tierna, frijoles rojos y limón seco para un sabor inconfundible"
+  },
+  {
+    "id": 4,
+    "nombre": "Abgoosht",
+    "categoria": "Platos principales",
+    "precio": 14,
+    "imagen": "https://tse2.mm.bing.net/th/id/OIP.aEdl9mZbEWD6weKluhMlcQHaE8",
+    "descripcion": "Abgoosht: tradicional guiso persa de cordero, garbanzos y papas"
+  },
+  {
+    "id": 5,
+    "nombre": "Batani Sonati",
+    "categoria": "Postres",
+    "precio": 7,
+    "imagen": "https://cookingwithayeh.com/wp-content/uploads/2020/12/Persian-Ice-Cream-Bastani-Sonnati-SQ-000-1024x1024.jpg",
+    "descripcion": "Bastani: helado persa de azafrán, pistacho y agua de rosas"
+  },
+  {
+    "id": 6,
+    "nombre": "Faloodeh",
+    "categoria": "Postres",
+    "precio": 6.7,
+    "imagen": "https://www.sweeterytoronto.com/wp-content/uploads/2025/11/a-beautifully-styled-bowl-of-iranian-faloodeh-wit.png",
+    "descripcion": "Faloodeh: refrescante postre persa de fideos de arroz, agua de rosas y limón"
+  }
+]
